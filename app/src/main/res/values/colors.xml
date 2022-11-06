@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="primary">#0280BB</color>
+    <color name="colorPrimary">#0280BB</color>
+    <color name="colorPrimaryDark">#88AFCC</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="transparent">#00000000</color>
+    <color name="refresh_progress_1" tools:ignore="MissingDefaultResource">#1508C4</color>
+    <color name="refresh_progress_2">#5E99D8</color>
+    <color name="refresh_progress_3">#1f13fa</color>
+</resources>
